@@ -97,9 +97,6 @@
     };
 
 
-
-
-
     return {
       getFavoriteVenues: getFavoriteVenues,
       addFavoriteVenue: addFavoriteVenue,
