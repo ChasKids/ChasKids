@@ -31,7 +31,10 @@ rgba(201, 229, 214, 0.3)), url("/assets/CharlestonBattery.jpg") center center no
   }
   .caption {
     color: $mainAccentFont;
+    font-size: 1.4em;
+    margin-top: 1em;
   }
+
   a:hover {
     img {
       opacity: 1;
@@ -41,7 +44,7 @@ rgba(201, 229, 214, 0.3)), url("/assets/CharlestonBattery.jpg") center center no
     a:visited {
       text-decoration: none;
     }
-    h3 {
+    h3, p {
       color: white;
       background-color: $mainAccent;
       border-radius: 5px;

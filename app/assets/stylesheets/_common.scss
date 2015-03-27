@@ -1,10 +1,8 @@
-/* \$mainAccent: #79BD8F; */
+
 $mainAccent: #9eb77b;
 $mainAccentLight: #cfdbbd;
 $mainAccentFont: #464f38;
 
-//font-family: 'Rosario', sans-serif;
-//font-family: 'Source Sans Pro', sans-serif;
 
 $font-main: 'Source Sans Pro', sans-serif;
 $font-headlines: 'Rosario', sans-serif;
@@ -60,7 +58,7 @@ a {
 /*   padding-bottom: 30px; */
 }
 
-h1,h2 {
+h1,h2, h3, h4 {
   font-family: $font-headlines;
 }
 
